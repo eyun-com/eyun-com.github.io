@@ -277,6 +277,9 @@ img.thumbnail {
 .is-size-7 {
   font-size: 0.85rem !important;
 }
+.is-size-4 {
+  font-weight: 300;
+}
 .is-7by1 {
   padding-top: 42.8%;
 }
@@ -321,7 +324,7 @@ img.thumbnail {
   margin-bottom: 0.5em !important;
 }
 .has-mr-7 {
-  margin-right: 0.25em !important;
+  margin-right: 7px;
 }
 .has-link-grey,
 .has-link-black-ter {
@@ -483,6 +486,15 @@ figure.highlight:hover .copy {
   left: 0;
   width: 100%;
   height: 100%;
+}
+.card-content .level-item {
+  line-height: 2;
+}
+.card-content .level-item .fa-map-marker-alt {
+  font-size: 12px;
+  line-height: 29px;
+  display: inline-block;
+  float: left;
 }
 /* ---------------------------------
  *        Fix Gist Snippet
