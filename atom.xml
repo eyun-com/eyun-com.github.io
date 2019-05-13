@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>易云</title>
+  
+  <subtitle>下一代互联网</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://eyun-com.github.io/"/>
+  <updated>2019-05-13T02:20:55.186Z</updated>
+  <id>https://eyun-com.github.io/</id>
+  
+  <author>
+    <name>云天明</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>灵感笔记</title>
+    <link href="https://eyun-com.github.io/2019/05/13/idea/"/>
+    <id>https://eyun-com.github.io/2019/05/13/idea/</id>
+    <published>2019-05-12T21:01:58.000Z</published>
+    <updated>2019-05-13T02:20:55.186Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="分布式的社交网络"><a href="#分布式的社交网络" class="headerlink" title="分布式的社交网络"></a>分布式的社交网络</h2><p>可以把文章、评论、收藏都做成分布式的。</p><p>本地每个人有一份自己的和自己订阅的，可以相互订阅，进而发展为一个去中心化的社交网络。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;分布式的社交网络&quot;&gt;&lt;a href=&quot;#分布式的社交网络&quot; class=&quot;headerlink&quot; title=&quot;分布式的社交网络&quot;&gt;&lt;/a&gt;分布式的社交网络&lt;/h2&gt;&lt;p&gt;可以把文章、评论、收藏都做成分布式的。&lt;/p&gt;
+&lt;p&gt;本地每个人有一份自己的和自己订阅的，可
+      
+    
+    </summary>
+    
+    
+      <category term="思考" scheme="https://eyun-com.github.io/tags/%E6%80%9D%E8%80%83/"/>
+    
+  </entry>
+  
+</feed>
